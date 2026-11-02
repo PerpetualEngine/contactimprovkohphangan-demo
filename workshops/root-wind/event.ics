@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Contact Improv Koh Phangan//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Contact Improv Koh Phangan
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:root-wind@contactimprovkohphangan.com
+DTSTAMP:20261102T223445Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270131
+SUMMARY:Root & Wind
+DESCRIPTION:5-day Intensive Bari Kim. https://perpetualengine.github.io/c
+ ontactimprovkohphangan-demo/workshops/root-wind/
+LOCATION:Koh Phangan\, Thailand
+URL:https://perpetualengine.github.io/contactimprovkohphangan-demo/worksh
+ ops/root-wind/
+END:VEVENT
+END:VCALENDAR

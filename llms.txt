@@ -1,0 +1,36 @@
+# Contact Improv Koh Phangan
+
+> Contact Improvisation (CI) community on Koh Phangan, Thailand: workshops, retreats, jams and classes, January to May 2027.
+
+## Pages
+
+- [Classes & Jams](https://perpetualengine.github.io/contactimprovkohphangan-demo/class-jam/)
+- [Workshops & Events 2027](https://perpetualengine.github.io/contactimprovkohphangan-demo/workshops/)
+- [Calendar](https://perpetualengine.github.io/contactimprovkohphangan-demo/calendar/)
+- [Focused Jams 2027](https://perpetualengine.github.io/contactimprovkohphangan-demo/focused-jam/)
+- [Water](https://perpetualengine.github.io/contactimprovkohphangan-demo/water/)
+- [About](https://perpetualengine.github.io/contactimprovkohphangan-demo/about-us/)
+- [Contact Improvisation](https://perpetualengine.github.io/contactimprovkohphangan-demo/about-contact/)
+- [Koh Phangan](https://perpetualengine.github.io/contactimprovkohphangan-demo/about-kohphangan/)
+
+## 2027 workshops and jams
+
+- [Root & Wind](https://perpetualengine.github.io/contactimprovkohphangan-demo/workshops/root-wind/): 26th - 30th January, 5-day Intensive Bari Kim
+- [Focused Jams Week 1&2](https://perpetualengine.github.io/contactimprovkohphangan-demo/workshops/focused-jams-week-1-2/): 1st - 14th February, Closed Group Jam Container
+- [Foundations](https://perpetualengine.github.io/contactimprovkohphangan-demo/workshops/foundations/): 2nd & 3rd February, 2 Day Beginner's Workshop with Christina Dohr
+- [Aikido into CI](https://perpetualengine.github.io/contactimprovkohphangan-demo/workshops/aikido-into-ci/): 5th & 6th February, 2 Day workshop with Christina Dohr
+- [Deep Touch](https://perpetualengine.github.io/contactimprovkohphangan-demo/workshops/deep-touch/): 8th - 10th February, 3-Day Workshop with Rosalind Holgate-Smith
+- [As One Body](https://perpetualengine.github.io/contactimprovkohphangan-demo/workshops/as-one-body/): 11th - 13th February, 3- Day Workshop with Krid & Ing from DD Flection
+- [To Be Danced By Spaces](https://perpetualengine.github.io/contactimprovkohphangan-demo/workshops/to-be-danced-by-spaces/): 15th - 17th February, 3-Day Workshop with Nitipat Ong Pholchai
+- [The Body Orchestra](https://perpetualengine.github.io/contactimprovkohphangan-demo/workshops/the-body-orchestra/): 18th - 28th February, Axis Syllabus - Somatics - CI with Kira Kirsch
+- [Oneness Nowness](https://perpetualengine.github.io/contactimprovkohphangan-demo/workshops/oneness-nowness/): 1st - 7th March, From Nature to Studio with Yasukichi Suzuki
+- [Focused Jams Week 3&4](https://perpetualengine.github.io/contactimprovkohphangan-demo/workshops/focused-jams-week-3-4/): 1st - 14th March, Closed Group Jam Container
+- [Capoeira and Soft Acrobatics into CI](https://perpetualengine.github.io/contactimprovkohphangan-demo/workshops/capoeira-and-soft-acrobatics-into-ci/): 3rd & 4th March, 2 Day Workshop with Nuria Bowart
+- [Listening to Movement](https://perpetualengine.github.io/contactimprovkohphangan-demo/workshops/listening-to-movement/): 15th - 19th March, 5-Day Intensive with Antoine Ragot
+- [Katya Basalaeva](https://perpetualengine.github.io/contactimprovkohphangan-demo/workshops/katya-basalaeva/): 20th - 28th March, 5-Day Intensive & 3-Day Lab with Katya Basalaeva
+- [Focused Jams Week 5&6](https://perpetualengine.github.io/contactimprovkohphangan-demo/workshops/focused-jams-week-5-6/): 29th March - 11th April, Closed Group Jam Container
+- [Xenia Isaeva](https://perpetualengine.github.io/contactimprovkohphangan-demo/workshops/xenia-isaeva/): 6th & 7th April, 2 Day Workshop
+- [Soft Power](https://perpetualengine.github.io/contactimprovkohphangan-demo/workshops/soft-power/): 9th April - 19th April, 10 day intensive with Artem Markov
+
+Machine-readable: https://perpetualengine.github.io/contactimprovkohphangan-demo/events.json and https://perpetualengine.github.io/contactimprovkohphangan-demo/calendar.ics
+Contact: contactimprovkohphangan@gmail.com

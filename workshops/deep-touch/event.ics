@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Contact Improv Koh Phangan//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Contact Improv Koh Phangan
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:deep-touch@contactimprovkohphangan.com
+DTSTAMP:20261102T223445Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270211
+SUMMARY:Deep Touch
+DESCRIPTION:3-Day Workshop with Rosalind Holgate-Smith. https://perpetual
+ engine.github.io/contactimprovkohphangan-demo/workshops/deep-touch/
+LOCATION:Koh Phangan\, Thailand
+URL:https://perpetualengine.github.io/contactimprovkohphangan-demo/worksh
+ ops/deep-touch/
+END:VEVENT
+END:VCALENDAR

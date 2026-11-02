@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Contact Improv Koh Phangan//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Contact Improv Koh Phangan
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:focused-jams-week-5-6@contactimprovkohphangan.com
+DTSTAMP:20261102T223445Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270412
+SUMMARY:Focused Jams Week 5&6
+DESCRIPTION:Closed Group Jam Container. https://perpetualengine.github.io
+ /contactimprovkohphangan-demo/workshops/focused-jams-week-5-6/
+LOCATION:Koh Phangan\, Thailand
+URL:https://perpetualengine.github.io/contactimprovkohphangan-demo/worksh
+ ops/focused-jams-week-5-6/
+END:VEVENT
+END:VCALENDAR

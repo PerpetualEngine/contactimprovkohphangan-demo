@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://perpetualengine.github.io/contactimprovkohphangan-demo/sitemap.xml

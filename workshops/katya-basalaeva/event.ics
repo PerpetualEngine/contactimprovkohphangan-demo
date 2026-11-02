@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Contact Improv Koh Phangan//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Contact Improv Koh Phangan
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:katya-basalaeva@contactimprovkohphangan.com
+DTSTAMP:20261102T223445Z
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270329
+SUMMARY:Katya Basalaeva
+DESCRIPTION:5-Day Intensive & 3-Day Lab with Katya Basalaeva. https://per
+ petualengine.github.io/contactimprovkohphangan-demo/workshops/katya-basa
+ laeva/
+LOCATION:Koh Phangan\, Thailand
+URL:https://perpetualengine.github.io/contactimprovkohphangan-demo/worksh
+ ops/katya-basalaeva/
+END:VEVENT
+END:VCALENDAR
