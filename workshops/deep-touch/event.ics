@@ -7,13 +7,41 @@ X-WR-CALNAME:Contact Improv Koh Phangan
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:deep-touch@contactimprovkohphangan.com
-DTSTAMP:20261102T223445Z
-DTSTART;VALUE=DATE:20270208
-DTEND;VALUE=DATE:20270211
-SUMMARY:Deep Touch
-DESCRIPTION:3-Day Workshop with Rosalind Holgate-Smith. https://perpetual
- engine.github.io/contactimprovkohphangan-demo/workshops/deep-touch/
+UID:deep-touch-2027-02-08-1700@contactimprovkohphangan.com
+DTSTAMP:20261103T101638Z
+DTSTART:20270208T100000Z
+DTEND:20270208T130000Z
+SUMMARY:Deep Touch: Holding
+DESCRIPTION:Exploring gradual weight loading\, deep compression and relea
+ se.\n3-Day Workshop with Rosalind Holgate-Smith. https://perpetualengine
+ .github.io/contactimprovkohphangan-demo/workshops/deep-touch/
+LOCATION:Koh Phangan\, Thailand
+URL:https://perpetualengine.github.io/contactimprovkohphangan-demo/worksh
+ ops/deep-touch/
+END:VEVENT
+BEGIN:VEVENT
+UID:deep-touch-2027-02-09-1700@contactimprovkohphangan.com
+DTSTAMP:20261103T101638Z
+DTSTART:20270209T100000Z
+DTEND:20270209T130000Z
+SUMMARY:Deep Touch: Sticky Touch
+DESCRIPTION:Grasping fascia and awakening the whole body in movement and 
+ touch.\n3-Day Workshop with Rosalind Holgate-Smith. https://perpetualeng
+ ine.github.io/contactimprovkohphangan-demo/workshops/deep-touch/
+LOCATION:Koh Phangan\, Thailand
+URL:https://perpetualengine.github.io/contactimprovkohphangan-demo/worksh
+ ops/deep-touch/
+END:VEVENT
+BEGIN:VEVENT
+UID:deep-touch-2027-02-10-1700@contactimprovkohphangan.com
+DTSTAMP:20261103T101638Z
+DTSTART:20270210T100000Z
+DTEND:20270210T130000Z
+SUMMARY:Deep Touch: Hugging and Squeezing
+DESCRIPTION:Discerning tension\, playing the instrument and exploring adv
+ anced tools in compression and release.\n3-Day Workshop with Rosalind Ho
+ lgate-Smith. https://perpetualengine.github.io/contactimprovkohphangan-d
+ emo/workshops/deep-touch/
 LOCATION:Koh Phangan\, Thailand
 URL:https://perpetualengine.github.io/contactimprovkohphangan-demo/worksh
  ops/deep-touch/

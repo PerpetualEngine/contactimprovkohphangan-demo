@@ -21,12 +21,12 @@ a:hover { color: var(--teal); }
 .menu-toggle, .burger { display: none; }
 
 /* hero + home */
-.hero { min-height: 62vh; background-size: cover; background-position: center; position: relative; display: flex; align-items: flex-end; }
+.hero { min-height: clamp(380px, 58vh, 640px); max-height: 700px; background-size: cover; background-position: center; position: relative; display: flex; align-items: flex-end; }
 .hero::before { content: ""; position: absolute; inset: 0; background: linear-gradient(to top, rgba(10,30,40,.65), rgba(10,30,40,.1) 70%); }
 .hero-inner { position: relative; max-width: 1240px; margin: 0 auto; padding: 0 20px 48px; width: 100%; }
 .hero h1 { font: 400 clamp(32px, 6vw, 64px)/1.1 var(--head); color: #fff; margin: 0; }
 .intro { padding-top: 48px; font-size: 19px; }
-.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 20px; padding-top: 24px; padding-bottom: 64px; }
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(215px, 1fr)); gap: 20px; padding-top: 24px; padding-bottom: 36px; }
 .card { display: block; background: #fff; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; text-decoration: none; color: inherit; transition: transform .2s, box-shadow .2s; }
 .card:hover { transform: translateY(-3px); box-shadow: 0 10px 24px rgba(20,50,60,.12); }
 .card img { aspect-ratio: 4/3; width: 100%; object-fit: cover; }
@@ -147,3 +147,33 @@ details .prose h4 { font-size: 15px; }
   .main-nav .sub a:hover { background: transparent; color: #fff; }
   .addcal .menu { left: 0; right: auto; max-width: calc(100vw - 40px); }
 }
+
+/* schedule */
+.schedule { margin-top: 28px; padding-top: 6px; border-top: 1px solid var(--line); }
+.schedule h2 { font: 400 26px var(--head); color: var(--teal-dark); margin: 22px 0 10px; }
+.table-wrap { overflow-x: auto; }
+.schedule table { width: 100%; border-collapse: collapse; font-size: 16px; }
+.schedule caption { text-align: left; font-size: 13.5px; color: #6a7a81; padding-bottom: 8px; }
+.schedule th, .schedule td { text-align: left; padding: 12px 14px 12px 0; border-bottom: 1px solid var(--line); vertical-align: top; }
+.schedule thead th { font-size: 12.5px; letter-spacing: .06em; text-transform: uppercase; color: #6a7a81; border-bottom: 2px solid var(--mist); }
+.schedule tbody th { white-space: nowrap; font-weight: 500; color: var(--teal-dark); }
+.schedule td.time { white-space: nowrap; }
+.sched-notes { margin: 14px 0 0; padding-left: 20px; color: #3c4d55; }
+
+/* page banners, lists, home "coming up", gallery */
+.page-hero { min-height: clamp(220px, 34vh, 380px); background-size: cover; background-position: center; position: relative; display: flex; align-items: flex-end; }
+.page-hero::before { content: ""; position: absolute; inset: 0; background: linear-gradient(to top, rgba(10,30,40,.7), rgba(10,30,40,.08) 75%); }
+.page-hero h1 { font: 400 clamp(30px, 5vw, 54px)/1.1 var(--head); color: #fff; margin: 0; }
+.page-hero + .prose { padding-top: 40px; }
+.prose ul { margin: 0 0 1.2em; padding-left: 1.2em; } .prose li { margin-bottom: .35em; }
+.coming { padding-bottom: 72px; } .coming h2 { font: 400 32px var(--head); color: var(--teal-dark); margin: 0 0 14px; }
+.soon-list { display: grid; gap: 0; border-top: 1px solid var(--line); }
+.soon { display: grid; grid-template-columns: 76px 170px 1fr; gap: 18px; align-items: center; padding: 14px 0; border-bottom: 1px solid var(--line); text-decoration: none; color: inherit; }
+.soon:hover strong { color: var(--teal); text-decoration: underline; }
+.soon img, .soon .noimg { width: 76px; height: 76px; object-fit: cover; border-radius: 4px; background: #e8eeed; }
+.soon .when { color: var(--teal); font-weight: 500; font-size: 15px; }
+.soon strong { font: 400 21px/1.25 var(--head); display: block; } .soon small { color: #5d6e75; font-size: 15px; }
+.gallery { padding-bottom: 72px; } .gallery .grid { grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; }
+.gallery .grid img { aspect-ratio: 4/3; border-radius: 5px; }
+@media (max-width: 640px) { .soon { grid-template-columns: 64px 1fr; } .soon .when { grid-column: 2; } .soon .what { grid-column: 1 / -1; } .soon img, .soon .noimg { width: 64px; height: 64px; grid-row: span 1; } }
+.prose, .detail { overflow-wrap: anywhere; }
